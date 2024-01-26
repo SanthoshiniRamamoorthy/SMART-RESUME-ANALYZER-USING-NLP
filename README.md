@@ -3,7 +3,7 @@
 
 ## 1. INSTALL BELOW LIBRARIES
 
-        #pip install -r requirements.txt
+        # pip install -r requirements.txt
 
         # pip install nltk
 
